@@ -6,8 +6,7 @@ __________________________
 EXAM TIME TABLE GENERATOR
 __________________________
 
-CONTRIBUTORS: R.DARSHAN
-      	      V.A.BALAJI
+CONTRIBUTORS:  V.A.BALAJI R.DARSHAN
 
 ___________________________
 
