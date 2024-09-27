@@ -74,7 +74,3 @@ The above two files are created in the same directory of the exe file.
 
 ____________________________________________________________________________________________________________________________________________
 
-
-**There is nothing impossible to they who will try**
-
-WISHES!!
